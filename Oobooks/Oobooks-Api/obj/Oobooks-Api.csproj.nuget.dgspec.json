@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Oobooks\\Oobooks-Api\\Oobooks-Api\\Oobooks-Api.csproj": {}
+    "D:\\Freelancing\\Wikobo\\Oobooks\\Oobooks-Api\\Oobooks-Api.csproj": {}
   },
   "projects": {
-    "D:\\Oobooks\\Oobooks-Api\\Oobooks-Api\\Oobooks-Api.csproj": {
+    "D:\\Freelancing\\Wikobo\\Oobooks\\Oobooks-Api\\Oobooks-Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Oobooks\\Oobooks-Api\\Oobooks-Api\\Oobooks-Api.csproj",
+        "projectUniqueName": "D:\\Freelancing\\Wikobo\\Oobooks\\Oobooks-Api\\Oobooks-Api.csproj",
         "projectName": "Oobooks-Api",
-        "projectPath": "D:\\Oobooks\\Oobooks-Api\\Oobooks-Api\\Oobooks-Api.csproj",
+        "projectPath": "D:\\Freelancing\\Wikobo\\Oobooks\\Oobooks-Api\\Oobooks-Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Oobooks\\Oobooks-Api\\Oobooks-Api\\obj\\",
+        "outputPath": "D:\\Freelancing\\Wikobo\\Oobooks\\Oobooks-Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
